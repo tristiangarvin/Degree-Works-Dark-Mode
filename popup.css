@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(45, 45, 45);
+    color: white;
+    min-width:300px;
+}
+
+button {
+    background: none;
+    background-color: none;
+    border: solid 1px white;
+    color: white;
+}

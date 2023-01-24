@@ -1,0 +1,18 @@
+{ 
+  "name": "Modify CSS and HTML",
+  "version": "0.1.0",
+  "description": "Dark mode for Ellucian Degreeworks",
+  "manifest_version": 3,
+  "permissions": ["scripting", "activeTab"],
+
+  "icons": { 
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png" 
+  },
+
+  "action": {
+    "default_icon": "img/icon128.png",
+    "default_popup": "popup.html"
+  }
+}
